@@ -6,6 +6,6 @@ alphametics.py is a python program, which solves an alphametics (also known as v
 This is an example of how to run the program
 
 ```Python
-alphametics.solve('SEND + MORE == MONEY')
+>>> alphametics.solve('SEND + MORE == MONEY')
 '9567 + 1085 == 10652'
 ```
